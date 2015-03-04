@@ -83,6 +83,10 @@ public class The3Sum {
 				}
 			}
 		}
+    	//两正一负
+    	for (int i = 0; i < negs.length; i++) {
+			
+		}
     	return ret;
     }
 }
